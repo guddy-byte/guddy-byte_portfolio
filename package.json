@@ -2,6 +2,7 @@
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://guddy-byte.github.io/guddy-byte_portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
